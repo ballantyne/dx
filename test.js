@@ -1,6 +1,6 @@
 dx = require('./index');
 util = require('util');
-dx.init('you-app-id', 'your-key');
-dx.request({number: 'your phone number', message: 'yo'});
+dx.init('you-apid', 'your-key');
+dx.request({number: 'your-number', message: 'testtext'});
 
 
