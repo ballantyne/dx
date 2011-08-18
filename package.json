@@ -1,10 +1,10 @@
 {
   "name"          : "189works",
   "description"   : "Send SMS through China Telecom's 189works",
-  "homepage"      : "http://github.com/ballantyne/oneeightnine",
+  "homepage"      : "http://github.com/ballantyne/dx",
   "keywords"      : ["sms", "china"],
   "author"        : "Scott Ballantyne <ussballantyne@gmail.com>",
-  "contributors"  : [],
+  "contributors"  : ["Blues Zhang <simsicon@gmail.com>"],
   "dependencies"  : [],
   "repository"    : {"type": "git", "url": "git://github.com/ballantyne/dx.git"},
   "main"          : "index.js",
