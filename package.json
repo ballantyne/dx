@@ -1,5 +1,5 @@
 {
-  "name"          : "189works",
+  "name"          : "dx",
   "description"   : "Send SMS through China Telecom's 189works",
   "homepage"      : "http://github.com/ballantyne/dx",
   "keywords"      : ["sms", "china"],
