@@ -4,7 +4,7 @@
   "homepage"      : "http://github.com/ballantyne/dx",
   "keywords"      : ["sms", "china"],
   "author"        : "Scott Ballantyne <ussballantyne@gmail.com>",
-  "contributors"  : ["Blues Zhang <simsicon@gmail.com>"],
+  "contributors"  : ["Zhang Zheng <simsicon@gmail.com>"],
   "dependencies"  : [],
   "repository"    : {"type": "git", "url": "git://github.com/ballantyne/dx.git"},
   "main"          : "index.js",
