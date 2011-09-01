@@ -1,6 +1,6 @@
 dx = require('./index');
 util = require('util');
-dx.init('apid', 'key');
-dx.send_sms({number: 'number', message: 'message'});
+dx.init('apiid', 'key');
+dx.request({number: 'phonenumber', message: 'msg'});
 
 
